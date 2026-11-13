@@ -1,0 +1,15 @@
+{
+  "lesson": 19,
+  "title": "Improving Agent Responses with Memory",
+  "application": "Preference-Aware Idea Assistant",
+  "purpose": "Store user-approved preferences with an owner and provenance, then supply only relevant facts to a new request.",
+  "exercise": "Change the owner and role. Confirm each owner has a separate JSON record and that old facts are not silently reused.",
+  "source_topics": [
+    "01-What-Do-We-Mean-by-Memory.png",
+    "02-Keep-Context-with-One-Client.png",
+    "03-Store-Selected-Facts-Explicitly.png",
+    "04-Understand-the-Real-Controls.png",
+    "05-Update-Correct-and-Reset-Memory.png",
+    "06-Test-Whether-Memory-Helps.png"
+  ]
+}

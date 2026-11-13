@@ -1,0 +1,16 @@
+{
+  "lesson": 19,
+  "application": "Preference-Aware Idea Assistant",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "memory_supplied": {
+      "owner": "alex",
+      "role": "marketing",
+      "source": "explicit user input"
+    },
+    "answer": "Try a customer interview series and a small newsletter experiment.",
+    "forget": "Delete alex.json from state to forget this record."
+  },
+  "measured_cost_usd": null
+}
